@@ -1,0 +1,432 @@
+Name1, Name2, Address, Phone_Number, email, Website, Head_Master
+Island Christian Academy,Island Christian Academy,香港必列者士街70號,25372552,office@islandca.edu.hk,http://www.islandca.edu.hk,Ms Middleton Deborah Ruth
+三水同鄉會禤景榮學校,Sam Shui Natives Association Huen King Wing School,新界大埔富善邨,26619383,ssnahkws@eservices.hkedcity.net,http://ssnahkws.edu.hk,李小寶女士
+上水宣道小學,Alliance Primary School, Sheung Shui,新界粉嶺聯和墟和睦路2號,26702257,apsmail@apsss.edu.hk,http://www.apsss.edu.hk,尹素嫻女士
+上水惠州公立學校,Wai Chow Public School (Sheung Shui),新界上水天平路51號,26731183,admin@waichow.edu.hk,http://www.waichow.edu.hk,黃永強先生
+世界龍岡學校劉德容紀念小學,LKWFSL Lau Tak Yung Memorial Primary School,新界屯門湖翠路263號,24045333,office@ltyschool.edu.hk,http://www.ltyschool.edu.hk,蘇威鳴先生
+世界龍岡學校黃耀南小學,LKWFSL Wong Yiu Nam Primary School,新界沙田廣源邨,26378637,mail@wynps.edu.hk,http://www.wynps.edu.hk,羅夔夔博士
+中華傳道會呂明才小學,CNEC Lui Ming Choi Primary School,新界青衣長發邨,24977557,cneclmc@hotmail.com,http://www.cneclmc.edu.hk,馬俊江先生
+中華傳道會許大同學校,CNEC Ta Tung School,新界葵涌葵興邨第一座校舍,24219159,info@cnectt.edu.hk,http://www.cnectt.edu.hk,王少超先生
+中華基督教會何福堂小學,CCC Hoh Fuk Tong Primary School,新界屯門龍門路41號,24597156,info@hft.edu.hk,http://www.hft.edu.hk,周任玲女士
+中華基督教會元朗真光小學,CCC Chun Kwong Primary School,新界元朗鐘聲徑五號,24762696,ccc.ckps@yahoo.com.hk,http://www.ckps.edu.hk,何妙玲女士
+中華基督教會全完第一小學,CCC Chuen Yuen First Primary School,新界荃灣大屋街6-8號,24900336,chuenyuen@chuenyuenfirst.edu.hk,http://www.chuenyuenfirst.edu.hk,譚光德先生
+中華基督教會全完第二小學,CCC Chuen Yuen Second Primary School,新界荃灣大窩口上角街3號,24201220,chuenyuen2@hkcccc.org,http://www.chuenyuen2.edu.hk,李德衡先生
+中華基督教會協和小學,CCC Heep Woh Primary School,九龍太子道西191B,23814343,heepwohp@netvigator.com,http://www.heepwoh.edu.hk,簡燕玲女士
+中華基督教會協和小學(長沙灣),CCC Heep Woh Primary School (Cheung Sha Wan),九龍深水埗東京街18號,21119099,heepwoha@netvigator.com,http://www.heepwohcsw.edu.hk,蔡世鴻先生
+中華基督教會基全小學,CCC Kei Tsun Primary School,九龍大角咀道150號,23928221,kts-mail@cccktps.edu.hk,http://www.cccktps.edu.hk,李寶文先生
+中華基督教會基慈小學,CCC Kei Tsz Primary School,九龍慈雲山道152號,23225122,info@keitsz.edu.hk,http://www.keitsz.edu.hk,趙潔華女士
+中華基督教會基慧小學,CCC Kei Wai Primary School,荃灣荃景圍167-185號,24980383,info@kws.edu.hk,http://www.kws.edu.hk,何麗雯女士
+中華基督教會基慧小學(馬灣),CCC Kei Wai Primary School (Ma Wan),新界荃灣馬灣珀麗灣珀林路12號,29863111,kwi-mail@hkedcity.net,http://www.kwmwps.edu.hk,何寶鈴女士
+中華基督教會基法小學,CCC Kei Faat Primary School,九龍觀塘月華街34號,23418088,ccckfp@yahoo.com.hk,http://www.kfp.edu.hk,翁美茵女士
+中華基督教會基法小學(油塘),CCC Kei Faat Primary School (Yau Tong),九龍油塘油塘道25號,23895458,kfs-mail@hkedcity.net,https://www.kfps.edu.hk,梁淑儀女士
+中華基督教會基灣小學,CCC Kei Wan Primary School,香港筲箕灣西灣河街63號,25608007,keiwan@hkcccc.org,http://www.keiwan.edu.hk,林偉雄先生
+中華基督教會基灣小學(愛蝶灣),CCC Kei Wan Primary School (Aldrich Bay),筲箕灣愛信道39號,29154140,school@ccckeiwan.edu.hk,http://www.ccckeiwan.edu.hk,黃靜雯女士
+中華基督教會基真小學,CCC Kei Chun Primary School,新界葵涌華麗徑11號,27419907,ccckcs@gmail.com,http://www.keichun.edu.hk,洪之龍先生
+中華基督教會基華小學,CCC Kei Wa Primary School,九龍黃大仙彩虹邨黃菊路,23200683,ccckeiwa@keiwa.edu.hk,http://www.keiwa.edu.hk,鄧瑞瑩博士
+中華基督教會基華小學(九龍塘),CCC Kei Wa Primary School (Kowloon Tong),九龍九龍塘牛津道1B,22676676,kwpskt@kwpskt.edu.hk,http://www.kwpskt.edu.hk,鄭雪英女士
+中華基督教會大澳小學,CCC Tai O Primary School,大嶼山大澳街市街24-26號,29857515,taiopris@netvigator.com,http://www.ccctaiops.edu.hk,蘇志英女士
+中華基督教會拔臣小學,CCC But San Primary School,新界屯門新墟青山公路28號,24598552,cccbs@butsan.edu.hk,http://www.butsan.edu.hk,劉餘權先生
+中華基督教會方潤華小學,CCC Fong Yun Wah Primary School,新界元朗天水圍天耀邨第二期,22519751,info@cccfyw.edu.hk,http://www.cccfyw.edu.hk,陳章華先生
+中華基督教會灣仔堂基道小學,CCC Wanchai Church Kei To Primary School,九龍油麻地東莞街45號,27804455,info@keito.school.hk,http://keito.school.hk,姚慧貞女士
+中華基督教會灣仔堂基道小學(九龍城),CCC Wanchai Church Kei To Primary School (Kowloon City),九龍城靠背壟道170號,27147000,ktkc@school.hk,http://ktkc.edu.hk,謝婉貞女士
+中華基督教會蒙黃花沃紀念小學,CCC Mong Wong Far Yok Memorial Primary School,新界屯門一區田景邨屋邨校舍,24563678,mwfysam@incnets.com,http://www.cccmwfys.edu.hk,劉仲宏先生
+中華基督教會長洲堂錦江小學,CCC Cheung Chau Church Kam Kong Primary School,長洲山頂道西1號,29810435,ccckkps1@netvigator.com,http://www.ccckamkongsch.edu.hk,曾偉漢先生
+中華基督教青年會小學,Chinese YMCA Primary School,新界天水圍天富苑第四期,24450580,info@cymcaps.edu.hk,http://www.cymcaps.edu.hk,孫群英女士
+中西區聖安多尼學校,Central And Western District St. Anthony's School,香港上環醫院道2號,25460369,sch@cwsa.edu.hk,http://www.cwsa.edu.hk,郭達華先生
+丹拿山循道學校,Chinese Methodist School, Tanner Hill,北角百福道4號,25615822,info@cmsth.edu.hk,http://www.cmsth.edu.hk,朱敏娟女士
+九龍城浸信會禧年(恩平)小學,Kowloon City Baptist Church Hay Nien (Yan Ping) Primary School,新界沙田新翠邨第二期校舍,26053811,enquiry@hnyp.edu.hk,http://www.hnyp.edu.hk,李楚安先生
+九龍城浸信會禧年小學,Kowloon City Baptist Church Hay Nien Primary School,新界沙田馬鞍山富安花園,26411213,info@haynien.edu.hk,http://www.haynien.edu.hk,梁國輝先生
+九龍塘天主教華德學校,Kowloon Tong Bishop Walsh Catholic School,九龍延文禮士道39號,23373768,mail@ktbwcs.edu.hk,http://www.ktbwcs.edu.hk,王伯基先生
+九龍塘學校(小學部),Kowloon Tong School (Primary Section),九龍九龍塘金巴倫道2721地段,23363802,info@ktsps.edu.hk,http://www.ktsps.edu.hk,楊美娟女士
+九龍塘官立小學,Kowloon Tong Government Primary School,九龍塘添福道六號,23360991,klntgps@edb.gov.hk,http://www.klntong.edu.hk,吳炎婷女士
+九龍塘宣道小學,Alliance Primary School, Kowloon Tong,九龍塘蘭開夏道2號,23361047,office@apskt.edu.hk,http://www.apskt.edu.hk,關美梅女士
+九龍塘方方樂趣英文小學,KLT Funful English Primary School,九龍九龍塘金巴倫道1號,23378422,office@fsris.edu.hk,http://www.fsris.edu.hk,999
+九龍婦女福利會李炳紀念學校,Kowloon Women's Welfare Club Li Ping Memorial School,九龍衛理道33號,23846904,lpp-mail@hkedcity.net,http://www.kwwclpms.edu.hk,林嘉康校長
+九龍灣聖若翰天主教小學,Kowloon Bay St. John The Baptist Catholic Primary School,九龍灣啟業道23號,23432311,sch@kbsjb.edu.hk,http://www.kbsjb.edu.hk,胡艷芬女士
+九龍真光中學(小學部),Kowloon True Light School (Primary Section),九龍窩打老道115號,23360662,info@ktlsps.edu.hk,http://www.ktlsps.edu.hk,彭潔嫻女士
+九龍禮賢學校,Kowloon Rhenish School,九龍又一村石竹路2A,23806011,rhenishschool@yahoo.com.hk,http://www.krs.edu.hk,吳玉英女士
+九龍靈光小學,Emmanuel Primary School, Kowloon,九龍盛德街36-38號,27111232,eps-mail@hkedcity.net,http://www.eps.edu.hk,陸志昌先生
+五旬節于良發小學,Pentecostal Yu Leung Fat Primary School,新界粉嶺暉明路16號,26795626,pylf_adm@yahoo.com.hk,http://www.pylfps.edu.hk,陳美英女士
+五旬節靳茂生小學,Pentecostal Gin Mao Sheng Primary School,新界粉嶺璧峰路四號,26700103,pgms_off@yahoo.com.hk,http://www.pgms.edu.hk,黎佩華女士
+五邑工商總會學校,Five Districts Business Welfare Association School,九龍深水埗永康街70號,23071017,info@fdbwa.edu.hk,http://www.fdbwa.edu.hk,黃錦耀先生
+五邑鄒振猷學校,FDBWA Chow Chin Yau School,新界屯門蝴蝶村兆山苑,24671882,mail@fdccys.edu.hk,http://www.fdccys.edu.hk,沈耀光先生
+亞斯理衛理小學,Asbury Methodist Primary School,新界葵涌荔景邨第二校舍,27429444,mail@asbury.edu.hk,http://www.asbury.edu.hk,林德育先生
+仁德天主教小學,Yan Tak Catholic Primary School,新界屯門蝴蝶邨小學校舍第二座,24636171,info@yantak.edu.hk,http://www.yantak.edu.hk,陳善科先生
+仁愛堂劉皇發夫人小學,Yan Oi Tong Madam Lau Wong Fat Primary School,新界屯門安定邨第六座校舍,24510372,mlwf@yotps.edu.hk,http://www.yotps.edu.hk,劉小慧女士
+仁愛堂田家炳小學,Yan Oi Tong Tin Ka Ping Primary School,新界將軍澳唐俊街3號,24571302,office@yottkpps.edu.hk,http://www.yottkpps.edu.hk,黃悅明博士
+仁濟醫院何式南小學,Yan Chai Hospital Ho Sik Nam Primary School,新界屯門第十六區興安里,24510325,ychhsn@yahoo.com.hk,http://www.hosiknam.edu.hk,羅卓賢先生
+仁濟醫院羅陳楚思小學,Yan Chai Hospital Law Chan Chor Si Primary School,新界屯門湖景路29號,24413366,ychlccs@yahoo.com.hk,http://www.lccs.edu.hk,陳嘉碧女士
+仁濟醫院蔡衍濤小學,Yan Chai Hospital Choi Hin To Primary School,新界大埔運頭塘邨,26566116,ychchtps@eservices.hkedcity.net,https://www.ychchtps.edu.hk,陳淑兒女士
+仁濟醫院趙曾學韞小學,Yan Chai Hospital Chiu Tsang Hok Wan Primary School,新界青衣青衣邨第二期屋邨小學,24331788,info@ychcthwps.edu.hk,http://www.ychcthwps.edu.hk,林美霞女士
+仁濟醫院陳耀星小學,Yan Chai Hospital Chan Iu Seng Primary School,新界將軍澳煜明苑,27061932,info@ychcisps.edu.hk,http://www.ychcisps.edu.hk,陳碧蘭女士
+伊利沙伯中學舊生會小學,Queen Elizabeth School Old Students' Association Primary School,新界天水圍天耀邨第一期,24480889,qps-mail@qesosaps.edu.hk,http://www.qesosaps.edu.hk,何敏薇女士
+伊利沙伯中學舊生會小學分校,Queen Elizabeth School Old Students' Association Branch Primary School,新界天水圍第四期第三區,24478686,info@bps.qesosa.edu.hk,http://www.bps.qesosa.edu.hk,梁潤蓮女士
+伊斯蘭學校,Islamic Primary School,新界屯門友愛邨愛德里2號,24502270,mail@islamps.edu.hk,http://www.islamps.edu.hk,伍瑞蘭女士
+伊斯蘭鮑伯濤紀念小學,Islamic Dharwood Pau Memorial Primary School,九龍黃大仙慈雲山慈樂邨第一期校舍,23201300,idpmps@idpmps.edu.hk,http://www.idpmps.edu.hk,石志端女士
+佐敦谷聖若瑟天主教小學,Jordan Valley St. Joseph's Catholic Primary School,九龍彩霞道80號,23050061,jvsj@jvsj.edu.hk,http://www.jvsj.edu.hk,林漢堅先生
+佐敦道官立小學,Jordan Road Government Primary School,九龍油麻地南京街1號B,23324249,jordan@eservices.hkedcity.net,http://www.jrgps.edu.hk,勞佩珊女士
+佛教中華康山學校,Buddhist Chung Wah Kornhill Primary School,香港鰂魚涌康愉街2號,28844115,bcwkornhill@yahoo.com.hk,http://www.bcwkps.edu.hk,吳永雄先生
+佛教志蓮小學,Chi Lin Buddhist Primary School,新界將軍澳唐俊街1號,22463959,office@chilinbps.edu.hk,http://www.chilinbps.edu.hk,李敏儀女士
+佛教慈敬學校,Buddhist Chi King Primary School,九龍觀塘九龍灣啟禮道12號,27597722,info@bckps.edu.hk,http://www.bckps.edu.hk,莊聖謙先生
+佛教林炳炎紀念學校,Buddhist Lam Bing Yim Memorial School,新界荃灣大廈街33號,24220125,blbyms_email@yahoo.com.hk,http://www.blbyms.edu.hk,李淑儀女士
+佛教林金殿紀念小學,Buddhist Lim Kim Tian Memorial Primary School,新界葵涌葵芳邨第五期,24221747,info@lkt.edu.hk,http://www.lkt.edu.hk,吳永雄先生
+佛教榮茵學校,Buddhist Wing Yan School,新界元朗鳳攸南街6號,24750433,bwy2009@yahoo.com.hk,http://www.bwys.edu.hk,杜家慶校長
+佛教陳榮根紀念學校,Buddhist Chan Wing Kan Memorial School,元朗馬田欖口村路23號,24753663,info@bcwkms.edu.hk,http://www.bcwkms.edu.hk,陳滿林先生
+佛教黃焯菴小學,Buddhist Wong Cheuk Um Primary School,香港銅鑼灣東院道11號,25762638,mail@bwcups.edu.hk,http://www.bwcups.edu.hk,陳瑞良先生
+保良局世德小學,PLK Castar Primary School,新界青衣青綠街,24363923,info@plkcastar.edu.hk,http://www.plkcastar.edu.hk,葉麗芳女士
+保良局何壽南小學,PLK Stanley Ho Sau Nan Primary School,九龍九龍城沐虹街11號,23262627,plkshsn@yahoo.com.hk,http://www.plkhsn.edu.hk,甘艷梅女士
+保良局建造商會學校,HKCA Po Leung Kuk School,香港天后廟道62號,28071770,admissions@plkis.edu.hk,http://plkis.edu.hk,999
+保良局志豪小學,PLK Horizon East Primary School,新界屯門興富街3號,27020707,plkheps@plkheps.edu.hk,http://www.plkheps.edu.hk,李秀蘭女士
+保良局方王錦全小學,PLK Fong Wong Kam Chuen Primary School,新界屯門良景邨第三校舍,24661882,general@eclass.plkfwkc.edu.hk,http://www.plkfwkc.edu.hk,郭秀慧女士
+保良局朱正賢小學,PLK Chee Jing Yin Primary School,新界沙田博康村沙角街6D,26469181,saryue@netvigator.com,http://www.plkcjy.edu.hk,高凱聯女士
+保良局林文燦英文小學,PLK Lam Man Chan English Primary School,土瓜灣上鄉道24號及農圃道2號,27121270,email@plklmceps.edu.hk,http://www.plklmceps.edu.hk,文詩詠女士
+保良局梁周順琴小學,PLK Leung Chow Shun Kam Primary School,新界屯門湖景村小學校舍第三座,24678107,plklcskoffice@gmail.com,http://www.plklcsk.edu.hk,溫慧芬女士
+保良局王賜豪(田心谷)小學,PLK Dr. Jimmy Wong Chi-Ho ( Tin Sum Valley ) Primary School,新界沙田隆亨邨2A地段,26062363,school@plkwch.edu.hk,http://www.plkwch.edu.hk,楊偉賢先生
+保良局田家炳千禧小學,PLK Tin Ka Ping Millennium Primary School,新界大埔公路大埔滘段4641號,26505551,info@plktkpmps.edu.hk,http://www.plktkpmps.edu.hk,陳寶玲女士
+保良局田家炳小學,PLK Tin Ka Ping Primary School,新界大埔運頭塘邨,26521222,info@plktkp.edu.hk,http://www.plktkp.edu.hk,陳詠賢女士
+保良局莊啟程小學,PLK Chong Kee Ting Primary School,新界沙田馬鞍山耀安村,26410221,mail@plkcktps.edu.hk,http://www.plkcktps.edu.hk,王寶音女士
+保良局莊啟程第二小學,PLK Vicwood KT Chong No.2 Primary School,新界屯門大興邨第1號校舍,24621722,mail@plkvktc2.edu.hk,http://www.plkvktc2.edu.hk,陳志源先生
+保良局蔡繼有學校,PLK Choi Kai Yau School,九龍深水埗郝德傑道6號,21482052,info@cky.edu.hk,http://www.cky.edu.hk,劉筱玲校長
+保良局蕭漢森小學,PLK Siu Hon Sum Primary School,新界沙田穗禾苑42A地段,26041966,info@plkshs.edu.hk,http://www.plkshs.edu.hk,張炳堅先生
+保良局西區婦女福利會馮李佩瑤小學,PLK Women’s Welfare Club (WD) Fung Lee Pui Yiu Primary School,新界屯門掃管笏管青路11號,24112208,info@plkflpy.edu.hk,http://www.plkflpy.edu.hk,鍾美珍女士
+保良局金銀業貿易場張凝文學校,PLK Gold & Silver Exchange Society Pershing Tsang School,香港銅鑼灣連道12號,28908131,pershingtsang@hotmail.com,http://www.plkgspts.edu.hk,劉彩玉女士
+保良局錦泰小學,PLK Grandmont Primary School,九龍慈雲山蒲崗村道180號,23262886,shn-mail@hkedcity.net,http://www.grandmont.edu.hk,呂焯權先生
+保良局陳南昌夫人小學,PLK Mrs Chan Nam Chong Memorial Primary School,九龍清水灣道彩雲邨,27599365,info@plkcnc.edu.hk,http://www.plkcnc.edu.hk,黃志揚先生
+保良局陳守仁小學,PLK Camões Tan Siu Lin Primary School,九龍油麻地海庭道六號,23673318,pcs-mail@hkedcity.net,http://www.plkctslps.edu.hk,楊永明先生
+保良局陳溢小學,PLK Chan Yat Primary School,新界青衣長康邨第二小學,24976073,cy@plkcy.edu.hk,http://www.plkcy.edu.hk,冼翠華女士
+保良局陸慶濤小學,PLK Luk Hing Too Primary School,新界將軍澳寶林邨,27010011,principal@plklht.edu.hk,http://www.plklht.edu.hk,陳桂琼女士
+保良局雨川小學,PLK Riverain Primary School,沙田馬鞍山鞍駿街28號,26333170,contact@plkrps.edu.hk,http://www.plkrps.edu.hk,蔡曼筠女士
+保良局香港道教聯合會圓玄小學,PLK HKTA Yuen Yuen Primary School,新界屯門青山公路青海圍26號,24501588,info@yyps.edu.hk,http://www.yyps.edu.hk,張志鴻先生
+保良局馮晴紀念小學,PLK Fung Ching Memorial Primary School,新界將軍澳培成路2號,27066620,fcs@plkfcmps.edu.hk,http://www.plkfcmps.edu.hk,林向成校長
+保良局黃永樹小學,PLK Wong Wing Shu Primary School,新界將軍澳唐賢街2號,21770050,plkwwsmail@yahoo.com.hk,http://www.plkwws.edu.hk,陳瑞良先生
+僑港伍氏宗親會伍時暢紀念學校,HKECA Wu Si Chong Memorial School,新界屯門建生邨屋邨小學校舍,24544122,hkeca@wusichong.edu.hk,http://www.wusichong.edu.hk,朱小芳女士
+優才(楊殷有娣)書院,G.T. (Ellen Yeung) College,將軍澳調景嶺彩明街,25356869,gts@gtschool.edu.hk,http://www.gtschool.hk,陳家偉博士
+元朗公立中學校友會小學,YLPMS Alumni Association Primary School,新界元朗公園北路2號,24750328,info@ylaps.edu.hk,http://www.ylaps.edu.hk,陳志雄先生
+元朗公立中學校友會英業小學,YLPMS Alumni Association Ying Yip Primary School,新界元朗天水圍天瑞路86號,26178200,mailbox@alu.edu.hk,http://www.alu.edu.hk,文志欽先生
+元朗商會小學,Yuen Long Merchants Association Primary School,新界元朗青山公路244號,24762268,school@ylmaps.edu.hk,http://www.ylmaps.edu.hk,黎玉朝先生
+元朗官立小學,Yuen Long Government Primary School,新界元朗坳頭友全街,24761160,ylgps@edb.gov.hk,http://www.ylgps.edu.hk,馮燕儀女士
+元朗寶覺小學,Yuen Long Po Kok Primary School,新界元朗洪水橋丹桂村路55號,24762258,ylpokok@ylpokok.edu.hk,http://www.ylpokok.edu.hk,譚慧萍女士
+元朗朗屏邨惠州學校,YL Long Ping Estate Wai Chow School,新界元朗朗屏邨第二期小學,24763903,info@hzit.edu.hk,http://www.hzit.edu.hk,宋慧儀女士
+元朗朗屏邨東莞學校,YL Long Ping Estate Tung Koon Primary School,新界元朗朗屏邨第一期,24762433,tkps@tkps.edu.hk,http://www.tkps.edu.hk,呂浩華先生
+光明學校,Kwong Ming School,新界元朗水邊圍邨,24762616,info@kms.edu.hk,http://www.kms.edu.hk,邢毅先生
+光明英來學校,Kwong Ming Ying Loi School,元朗元政路,24762610,kmylsfung@yahoo.com.hk,http://www.kmyls.edu.hk,馮瑞德先生
+八鄉中心小學,Pat Heung Central Primary School,新界元朗八鄉蓮花地199號,24881520,phcps2003@yahoo.com.hk,http://www.phcps.edu.hk,黎婉姍女士
+勵志會梁李秀娛紀念小學,The Endeavourers Leung Lee Sau Yu Memorial Primary School,香港筲箕灣耀東邨耀興道25號,29679622,llsy@llsy.edu.hk,http://www.llsy.edu.hk,陳錦汛先生
+北角官立小學,North Point Government Primary School,香港北角英皇道888號,25617130,npgps@edb.gov.hk,http://www.npgps.edu.hk,鄧愛蓮女士
+北角官立小學(雲景道),North Point Government Primary School (Cloudview Road),香港北角雲景道22號,21229494,school@npcvr.edu.hk,http://www.npcvr.edu.hk,梁蕙君女士
+北角循道學校,Chinese Methodist School (North Point),香港北角百福道15號,25619693,info@cmsnp.edu.hk,http://www.cmsnp.edu.hk,莊素妹女士
+北角衛理小學,North Point Methodist Primary School,香港北角百福道2A號,25703623,npm-info@npmps.edu.hk,http://www.npmps.edu.hk,黃侶詩女士
+十八鄉鄉事委員會公益社小學,Shap Pat Heung Rural Committee Kung Yik She Primary School,新界天水圍天城路22號,24486623,sphrcps@yahoo.com.hk,http://www.kysps.edu.hk,姚頌文先生
+協恩中學附屬小學,Heep Yunn Primary School,九龍土瓜灣農圃道1號,27111263,hyps@hyps.mysch.net,http://www.hyps.edu.hk,梁靄雯女士
+南丫北段公立小學,Northern Lamma School,南丫島榕樹灣榕樹嶺1號,29820242,enquiry@nls.edu.hk,http://www.nls.edu.hk,黃安琪女士
+南元朗官立小學,South Yuen Long Government Primary School,新界元朗欖口村路21號,24781230,sylgps@edb.gov.hk,http://www.sylgps.edu.hk,鄭迪思女士
+博愛醫院歷屆總理聯誼會梁省德學校,AD & FD POHL Leung Sing Tak School,新界元朗朗屏邨第三期,24745566,am@yuenlonglsts.edu.hk,http://www.yuenlonglsts.edu.hk,陳志雄先生
+博愛醫院歷屆總理聯誼會鄭任安夫人千禧小學,AD & FD POHL Mrs Cheng Yam On Millennium School,新界屯門掃管笏路111號,24510088,info@mcyoms.edu.hk,http://www.mcyoms.edu.hk,蔡劍冬先生
+博愛醫院歷屆總理聯誼會鄭任安夫人學校,AD & FD POHL Mrs Cheng Yam On School,新界屯門屯利街3號,24512333,info@mcyos.edu.hk,http://www.mcyos.edu.hk,鄭筱薇女士
+博愛醫院陳國威小學,Pok Oi Hospital Chan Kwok Wai Primary School,新界將軍澳尚德邨,21785700,info@pohckwps.edu.hk,http://www.pohckwps.edu.hk,韋淑貞校長
+台山商會學校,Toi Shan Association Primary School,新界屯門石排頭路14號,24622855,toishanaps@eservices.hkedcity.net,http://www.ts.edu.hk,曾子通先生
+合一堂學校,Hop Yat Church School,九龍公主道7號,27112440,hycsa@hycs.edu.hk,http://www.hycs.edu.hk,吳麗霞博士
+吳氏宗親總會泰伯紀念學校,Ng Clan's Association Tai Pak Memorial School,新界沙田馬鞍山錦英苑,26404033,taipaksch@yahoo.com.hk,http://www.taipak.edu.hk,吳信昌先生
+和富慈善基金李宗德小學,W F Joseph Lee Primary School,新界天水圍101區天暉路9號,34014995,info@wfjlps.edu.hk,http://www.wfjlps.edu.hk,鄒秉恩先生
+啓新書院,Renaissance College Hong Kong,新界沙田馬鞍山恆明街5號,35563556,info@rchk.edu.hk,http://www.rchk.edu.hk,Mr Brown Jr Harry Thomas
+啟基學校,Chan's Creative School,九龍界限街71號新翼,23816228,chanscreative@ccs.edu.hk,http://www.ccs.edu.hk,陳美顏女士
+啟基學校(港島),Chan's Creative School (Hong Kong Island),香港北角馬寶道82號,25610821,ccshki@gmail.com,http://www.ccshki.edu.hk,鄭惠琪女士
+啟思小學,Creative Primary School,九龍九龍塘牛津道2號A,23360266,cps@creativeprisch.edu.hk,http://www.creativeprisch.edu.hk,陳素明女士
+喇沙小學,La Salle Primary School,九龍喇沙利道1D,23362609,lasalleprimary@la-salle.edu.hk,http://www.la-salle.edu.hk,Nair Chandni 女士
+嗇色園主辦可信學校,Ho Shun Primary School (Sponsored by Sik Sik Yuen),新界葵涌梨木樹邨第三座校舍,24248861,hsps@hoshun.edu.hk,http://www.hoshun.edu.hk,朱遠球先生
+嗇色園主辦可立小學,Ho Lap Primary School (Sponsored by Sik Sik Yuen),九龍慈雲山慈樂邨第二期,23216003,hlp-mail@holap-p.edu.hk,http://www.holap-p.edu.hk,莊愛玲女士
+嗇色園主辦可譽中學暨可譽小學,Ho Yu College and Primary School (Sponsored by Sik Sik Yuen),東涌健東路4-6號,21091001,mail@hoyu.edu.hk,http://www.hoyu.edu.hk,李雪英女士
+嗇色園主辦可銘學校,Ho Ming Primary School (Sponsored by Sik Sik Yuen),新界天水圍天柏路2號,24450101,info@homing.edu.hk,http://www.homing.edu.hk,陳煥璋女士
+嘉諾撒培德學校,Pui Tak Canossian Primary School,香港香港仔大道180號,25529529,ptcps180@gmail.com,http://www.ptcps.edu.hk,趙冠施女士
+嘉諾撒小學,Canossa Primary School,九龍竹園親仁街五號,23222445,cpswts@gmail.com,http://www.cpswts.edu.hk,杜永強先生
+嘉諾撒小學(新蒲崗),Canossa Primary School (San Po Kong),九龍新蒲崗彩頤里九號,23238883,can-cpsspk@hkedcity.net,http://www.cps.edu.hk,陳昌信先生
+嘉諾撒聖家學校,Holy Family Canossian School,九龍城聯合道102號,23821035,head@hfkc.edu.hk,http://www.hfkc.edu.hk,何佩芳女士
+嘉諾撒聖家學校(九龍塘),Holy Family Canossian School (Kowloon Tong),九龍塘添福路8號,23365981,admin@holyfamilykt.edu.hk,http://www.holyfamilykt.edu.hk,邵苑芬修女
+嘉諾撒聖心學校,Sacred Heart Canossian School,香港中環堅道26號,25248679,shcs@shcssubs.edu.hk,http://www.shcs.edu.hk,李玉珊女士
+嘉諾撒聖心學校私立部,Sacred Heart Canossian School Private Section,香港中環堅道26號,25248301,shcsps12@netvigator.com,http://www.shcsps.edu.hk,黃佩玲修女
+嘉諾撒聖方濟各學校,St. Francis' Canossian School,香港灣仔聖佛蘭士街42-44號,25281763,sfcso@sfcs.edu.hk,http://www.sfcs.edu.hk,黃婉貞女士
+嘉諾撒聖瑪利學校,St. Mary's Canossian School,九龍柯士甸道162號,23684204,school@smcs.edu.hk,http://www.smcs.edu.hk,張惠儀女士
+國民學校,Kwok Man School,長洲國民路30號,29810432,info@cckms.edu.hk,http://www.cckms.edu.hk,賴子文先生
+國際基督教優質音樂中學暨小學,International Christian Quality Music Secondary and Primary School,九龍鑽石山蒲崗村道182號,27773828,info@icqm.edu.hk,http://www.icqm.edu.hk,陳永生博士
+地利亞(閩僑)英文小學,Delia (Man Kiu) English Primary School,新界青衣長安邨第二期,24325123,enquiry@deliamk.edu.hk,http://www.deliamk.edu.hk,張國威先生
+地利亞英文小學暨幼稚園,Delia English Primary School and Kindergarten,九龍美孚新邨百老匯街84-86號,27422027,mail@deliapri-kg.edu.hk,http://www.deliapri-kg.edu.hk,左筱霞女士
+坪石天主教小學,Ping Shek Estate Catholic Primary School,九龍坪石邨第一座校舍,23212988,psec@psec.edu.hk,http://www.psec.edu.hk,高翠萍女士
+培僑小學,Pui Kiu Primary School,柴灣小西灣富怡道12號,28977866,pkps_edu@yahoo.com.hk,http://www.pkps.edu.hk,吳佳筠女士
+培僑書院,Pui Kiu College,新界沙田大圍下城門道,26023166,puikiucollege@puikiu.edu.hk,http://www.puikiucollege.edu.hk,吳育智先生
+培基小學,Stewards Pooi Kei Primary School,新界沙田火炭樂霞坊2號,26025353,admin@pooikei.edu.hk,http://www.pooikei.edu.hk,黃清江先生
+基督教宣道會宣基小學,Christian & Missionary Alliance Sun Kei Primary School,新界將軍澳尚德邨,21916996,info@sunkei.edu.hk,http://www.sunkei.edu.hk,鄭堅民先生
+基督教宣道會宣基小學(坪石),Christian and Missionary Alliance Sun Kei Primary School (Ping Shek),九龍清水灣道12號坪石邨,23423322,sk2@sunkei.edu.hk,http://www.sk2.edu.hk,區詠恩女士
+基督教宣道會徐澤林紀念小學,C&MA Chui Chak Lam Memorial School,新界元朗建德街68號,23813904,mail@ccl.edu.hk,http://www.ccl.edu.hk,陳瑞如女士
+基督教神召會梁省德小學,Assembly of God Leung Sing Tak Primary School,新界將軍澳文曲里2號,21911929,aoglsttko@gmail.com,http://www.lsttko.edu.hk,張麗君女士
+基督教粉嶺神召會小學,Fanling Assembly of God Church Primary School,新界粉嶺和鳴里2號,29479966,mail@fagps.edu.hk,http://www.fagps.edu.hk,李碧雯女士
+基督教聖約教會堅樂小學,The Mission Covenant Church Holm Glad Primary School,九龍觀塘秀茂坪秀明道77號,27574566,mcchgps@hgps.edu.hk,http://www.hgps.edu.hk,司徒德志先生
+基督教聖約教會堅樂第二小學,The Mission Covenant Church Holm Glad No. 2 Primary School,九龍觀塘順安邨,28733122,info@hg2ps.edu.hk,http://www.hg2ps.edu.hk,蕭婷女士
+基督教香港信義會信愛學校,ELCHK Faith Love Lutheran School,香港柴灣漁灣邨第2座校舍,25562442,fll-mail@hkedcity.net,http://www.cwflls.edu.hk,趙劍眉女士
+基督教香港信義會啟信學校,ELCHK Lutheran School,新界元朗安信街10號,24791830,,http://elchkls.edu.hk,王雲珠
+基督教香港信義會宏信書院,ELCHK Lutheran Academy,新界元朗馬田欖口村路25號,82082092,info@luac.edu.hk,http://www.luac.edu.hk,封華冑博士
+基督教香港信義會深信學校,The ELCHK Faith Lutheran School,九龍石硤尾培德街8號,27790106,fl-schmail@hkedcity.net,http://www.fls.edu.hk,潘自榮先生
+基督教香港信義會禾輋信義學校,ELCHK Wo Che Lutheran School,新界沙田禾輋邨學校第三座,26911426,wcl@wcl.edu.hk,http://wcl.edu.hk,蕭偉樂先生
+基督教香港信義會紅磡信義學校,ELCHK Hung Hom Lutheran Primary School,九龍土瓜灣炮仗街39號,27121543,info@hhlps.edu.hk,http://www.hhlps.edu.hk,黃智華先生
+基督教香港信義會葵盛信義學校,ELCHK Kwai Shing Lutheran Primary School,新界葵涌葵盛東邨,24225187,kslps@kslps.edu.hk,http://www.kslps.edu.hk,徐起鸝校長
+基督教香港信義會馬鞍山信義學校,ELCHK Ma On Shan Lutheran Primary School,新界沙田馬鞍山恆安邨第二校舍,26429118,info@mluthps.edu.hk,http://www.mluthps.edu.hk,簡淑菁女士
+塘尾道官立小學,Tong Mei Road Government Primary School,九龍旺角塘尾道170號,23930800,tmrgps@tmr.edu.hk,http://www.tmr.edu.hk,梁蕙君女士
+大坑東宣道小學,Alliance Primary School, Tai Hang Tung,九龍大坑東棠蔭街23號及13號,27778949,aps@apstht.edu.hk,http://www.apstht.edu.hk,潘恩慈女士
+大埔官立小學,Tai Po Government Primary School,新界大埔太和路8號,26562382,tpgps@edb.gov.hk,http://www.tpgps.edu.hk,鄭玉清女士
+大埔崇德黃建常紀念學校,Sung Tak Wong Kin Sheung Memorial School,新界大埔東昌街,26535565,wksama@netvigator.com,http://www.wks.edu.hk,陳愛英校長
+大埔循道衛理小學,Tai Po Methodist School,新界大埔棟樑路10號,26622011,tpms@tpms.edu.hk,http://www.tpms.edu.hk,李綺琼女士
+大埔浸信會公立學校,Tai Po Baptist Public School,大埔廣福邨,26563933,tpbps@tpbps.edu.hk,http://www.tpbps.edu.hk,蔡碧蕊女士
+大埔舊墟公立學校,Tai Po Old Market Public School,新界大埔安祥路10號,26654610,tpomps@hotmail.com,http://www.tpomps.edu.hk,張麗珠女士
+大埔舊墟公立學校(寶湖道),Tai Po Old Market Public School (Plover Cove),大埔寶湖道7號,26652333,tpompspc@tpompspc.edu.hk,http://www.tpompspc.edu.hk,徐俊祥先生
+大角嘴天主教小學,Tai Kok Tsui Catholic Primary School,九龍大角咀道148號,23952521,sch@tktcps.edu.hk,http://www.tktcps.edu.hk,陳淑儀女士
+大角嘴天主教小學(海帆道),Tai Kok Tsui Catholic Primary School (Hoi Fan Road),九龍大角咀海帆道20號,21914270,tktcpshfr@netvigator.com,http://www.tktcpshfr.edu.hk,麥天賜先生
+天主教伍華小學,Ng Wah Catholic Primary School,九龍新蒲崗彩虹道5號,23838079,ngwah@nwcps.edu.hk,http://www.nwcps.edu.hk,譚煜鴻先生
+天主教佑華小學,Our Lady Of China Catholic Primary School,九龍觀塘翠屏邨第四期屋邨小學,23482366,info@oloccps.edu.hk,http://www.oloccps.edu.hk,黃玉嬋女士
+天主教博智小學,Price Memorial Catholic Primary School,九龍竹園道53號天馬苑,23288033,info@pmcps.edu.hk,http://www.pmcps.edu.hk,陳碧琪女士
+天主教善導小學,Good Counsel Catholic Primary School,九龍深水埗廣利道9號,23865392,info@mail.gccps.edu.hk,http://www.gccps.edu.hk,吳麗容女士
+天主教明德學校,Meng Tak Catholic School,香港柴灣祥民道11號,25572244,mtcs@mengtak.edu.hk,http://mengtakps.edu.hk,梁孝友先生
+天主教柏德學校,Bishop Paschang Catholic School,九龍九龍灣宏照道6號,27993003,schoolmail@bpcs.edu.hk,http://bpcs.edu.hk,陳美卿女士
+嘉諾撒聖方濟各學校,St. Francis' Canossian School,香港灣仔聖佛蘭士街42-44號,25281763,sfcso@sfcs.edu.hk,http://www.sfcs.edu.hk,黃婉貞女士
+嘉諾撒聖瑪利學校,St. Mary's Canossian School,九龍柯士甸道162號,23684204,school@smcs.edu.hk,http://www.smcs.edu.hk,張惠儀女士
+國民學校,Kwok Man School,長洲國民路30號,29810432,info@cckms.edu.hk,http://www.cckms.edu.hk,賴子文先生
+國際基督教優質音樂中學暨小學,International Christian Quality Music Secondary and Primary School,九龍鑽石山蒲崗村道182號,27773828,info@icqm.edu.hk,http://www.icqm.edu.hk,陳永生博士
+地利亞(閩僑)英文小學,Delia (Man Kiu) English Primary School,新界青衣長安邨第二期,24325123,enquiry@deliamk.edu.hk,http://www.deliamk.edu.hk,張國威先生
+天主教聖華學校,The Little Flower's Catholic Primary School,新界沙田禾輋邨禾輋街11號,26924593,001@littleflowerschool.edu.hk,http://www.littleflowerschool.edu.hk,吳潔蘭女士
+天主教領島學校,Ling To Catholic Primary School,九龍何文田俊民苑,27139233,info@lingto.edu.hk,http://www.lingto.edu.hk,洪美華女士
+天佑小學,Mary Of Providence Primary School,新界荃灣河背街68號,24922929,info@mpschool.edu.hk,http://www.mpschool.edu.hk,陳志恒先生
+天水圍天主教小學,Tin Shui Wai Catholic Primary School,新界天水圍天柏路28號,26178212,sch@tswcps.edu.hk,http://www.tswcps.edu.hk,楊順先生
+天水圍官立小學,Tin Shui Wai Government Primary School,新界元朗天水圍天瑞路8號,24474288,tswgps@edb.gov.hk,http://www.tswgps.edu.hk,何惠珍女士
+天水圍循道衛理小學,Tin Shui Wai Methodist Primary School,新界天水圍天頌苑,24480373,email@tswmps.edu.hk,http://www.tswmps.edu.hk,蘇炳輝先生
+天神嘉諾撒學校,Holy Angels Canossian School,九龍紅磡鶴園街21號,23624448,info@hacs.edu.hk,http://www.hacs.edu.hk,區敏儀女士
+太古小學,Taikoo Primary School,香港英皇道1100號,25615555,taikoo@tps.edu.hk,http://www.tps.edu.hk,陳綺梅女士
+孔教學院大成小學,Confucian Tai Shing Primary School,九龍黃大仙大成街10號,23203301,info@taishingprimary.edu.hk,http://www.taishingprimary.edu.hk,潘淑嫻女士
+安菲爾學校,Anfield School,新界沙田大圍龍柏街1號,26928823,admissions@plkis.edu.hk,http://www.anfield.com.hk,Ms. Vicky Davies
+官立嘉道理爵士小學,Sir Ellis Kadoorie (Sookunpo) Primary School,香港掃桿埔東院道9號,25773489,webmaster@sekps.edu.hk,http://www.sekps.edu.hk,徐秀雯女士
+宣道會葉紹蔭紀念小學,Christian Alliance S.Y. Yeh Memorial Primary School,新界天水圍天澤邨105區第二期,31522973,syy-mail@hkedcity.net,http://www.casyymps.edu.hk,徐式怡女士
+寶安商會溫浩根小學,Po On Commercial Association Wan Ho Kan Primary School,大嶼山東涌富東邨,21090045,school@pocawhk.edu.hk,http://www.pocawhk.edu.hk,鍾寶來女士
+寶血小學,Precious Blood Primary School,香港跑馬地成和道72號,25723851,admin@preciousbloodhv.edu.hk,http://www.preciousbloodhv.edu.hk,鄭愛麗女士
+寶血會伍季明紀念學校,Kwai Ming Wu Memorial School Of The Precious Blood,新界荃灣蕙荃路22-66號綠楊新邨,24988911,kmwpm@hotmail.com,http://www.kmw.edu.hk,謝國貞女士
+寶血會嘉靈學校,Ka Ling School Of The Precious Blood,九龍深水埗海壇街280號,23864542,info@kalingpb.edu.hk,http://www.kalingpb.edu.hk,馮敏兒女士
+寶血會培靈學校,Pui Ling School Of The Precious Blood,新界粉嶺安樂村安樂門街13號,26756617,office@plpb.edu.hk,http://www.plpb.edu.hk,陳靄媚女士
+寶血會思源學校,Si Yuan School of the Precious Blood,新界荃灣城門道2號,35906061,sys@sys.edu.hk,http://www.sys.edu.hk,郭敏儀女士
+寶覺小學,Po Kok Primary School,香港跑馬地山光道11-15號,25737911,pkps@pokokps.edu.hk,http://www.pokokps.edu.hk,鍾麗金校長
+將軍澳天主教小學,Tseung Kwan O Catholic Primary School,新界將軍澳唐賢街6號,26235679,info@tkocps.edu.hk,http://www.tkocps.edu.hk,馬一龍先生
+將軍澳官立小學,Tseung Kwan O Government Primary School,新界將軍澳厚德邨第二期,27013194,tkogps@edb.gov.hk,http://www.tkogps.edu.hk,葉韻婷女士
+將軍澳循道衛理小學,Tseung Kwan O Methodist Primary School,將軍澳唐俊街15號,27060770,email@tkomps.edu.hk,http://www.tkomps.edu.hk,顏偉亮先生
+屯門官立小學,Tuen Mun Government Primary School,新界屯門兆康苑,24651662,tmgps@edb.gov.hk,http://www.tmgps.edu.hk,黃寶華校長
+崇真小學暨幼稚園(小學部),Tsung Tsin Primary School and Kindergarten,九龍大埔道58號,27773679,enquiry@ttpskg.edu.hk,http://www.ttpskg.edu.hk,譚煥玲博士
+嶺南大學香港同學會小學,Lingnan University Alumni Association (Hong Kong) Primary School,九龍白田街33號,27768453,info@luaaps.edu.hk,http://www.luaaps.edu.hk,鄭安娜校長
+廣東道官立小學,Canton Road Government Primary School,九龍尖沙咀廣東道178號,23661530,crgpsinfo@edb.gov.hk,https://crgps.edu.hk,袁藹儀女士
+弘立書院,The Independent Schools Foundation Academy,香港薄扶林鋼綫灣道1號,22022000,enquiry@isf.edu.hk,https://academy.isf.edu.hk/,查永茂博士
+彩雲聖若瑟小學,Choi Wan St. Joseph's Primary School,九龍彩雲邨第二小學,27557180,choiwansj@gmail.com,http://www.cwsj.edu.hk,陳燕芬女士
+循理會白普理基金循理小學,F.M.B. Chun Lei Primary School,新界沙田新翠邨第一號校舍,26057755,clamail@netvigator.com,http://www.chunlei.edu.hk,黃華聲先生
+循理會美林小學,Free Methodist Mei Lam Primary School,新界沙田大圍美城苑,26052868,fmml@netvigator.com,http://www.fmml.edu.hk,袁錦翰先生
+循道學校,Methodist School,九龍何文田衛理道12號,39762200,methodistschool@yahoo.com.hk,http://www.kmsch.edu.hk,林惠嫦女士
+德信學校,Tak Sun School,九龍柯士甸道103號,23673446,mail@taksun.edu.hk,http://www.taksun.edu.hk,郭超群先生
+德望小學暨幼稚園(小學部),Good Hope Primary School Cum Kindergarten (Primary Section),九龍扎山道383號,23275294,gps-general@hkedcity.net,http://www.ghs.edu.hk/pri/,阮嫣玲修女
+德萃小學,St. Hilary's Primary School,大埔運頭街6號,23387109,info@sthilarys.edu.hk,https://www.sthilarys.edu.hk,陳志超先生
+德貞小學,Tack Ching Primary School,九龍深水埗元州街125號,23864780,999,999,999
+德雅小學,Tak Nga Primary School,九龍又一村達之路20號,23806581,tnps@eservices.hkedcity.net,http://www.tnps.edu.hk,曾美琼修女
+惇裕學校,Tun Yu School,新界元朗新田,24711915,tun_yu@yahoo.com.hk,http://www.tys.edu.hk,陳杏軒先生
+愛秩序灣官立小學,Aldrich Bay Government Primary School,香港筲箕灣愛禮街1號,25611118,abgps@edb.gov.hk,http://www.abgps.edu.hk,崔家祥先生
+慈幼學校,Salesian School,香港筲箕灣柴灣道16號,28850032,mail@salesian.edu.hk,http://salesian.edu.hk,陳婉琪女士
+慈幼葉漢千禧小學,Salesian Yip Hon Millennium Primary School,新界葵涌石排街9號,24291177,e-mail@syh.edu.hk,http://www.syh.edu.hk,區志成先生
+慈幼葉漢小學,Salesian Yip Hon Primary School,新界葵涌安蔭邨,24202727,enquiry@syhps.edu.hk,http://www.syhps.edu.hk,何永昌先生
+慈航學校,Chi Hong Primary School,新界沙田源昌里1號,26486834,chihong1@netvigator.com,http://www.chihong.edu.hk,楊冬梅女士
+慈雲山天主教小學,Tsz Wan Shan Catholic Primary School,九龍黃大仙蒲崗村道172號學校村,23273332,mail@t-cat.edu.hk,http://www.t-cat.edu.hk,黃綺霞女士
+慈雲山聖文德天主教小學,Tsz Wan Shan St. Bonaventure Catholic Primary School,慈雲山慈正邨寧華街,23206226,admin@tsbcps.edu.hk,http://www.tsbcps.edu.hk,林偉才先生
+打鼓嶺嶺英公立學校,Ta Ku Ling Ling Ying Public School,新界北區打鼓嶺週田村,26740538,tkllyps2@netvigator.com,http://www.tkllingying.edu.hk,朱國強先生
+拔萃女小學,Diocesan Girls' Junior School,九龍佐敦道1號,22779200,dgjs@dgjs.edu.hk,http://www.dgjs.edu.hk,李安麗女士
+拔萃小學,Diocesan Preparatory School,九龍九龍塘志士達道1號,23361448,dps002@dps.edu.hk,http://www.dps.edu.hk,伍頴儀女士
+拔萃男書院附屬小學,Diocesan Boys' School Primary Division,九龍旺角亞皆老街131號,31594200,dbspd@dbs.edu.hk,http://www.dbspd.edu.hk,鄭基恩先生
+播道書院,Evangel College,新界將軍澳至善街七號,23661802,info@evangel.edu.hk,http://www.evangel.edu.hk,盧偉成先生
+救世軍中原慈善基金學校,The Salvation Army Centaline Charity Fund School,香港柴灣華廈街九號,25562292,info@saccf.edu.hk,http://www.saccf.edu.hk,黃順娥女士
+救世軍林拔中紀念學校,The Salvation Army Lam Butt Chung Memorial School,大嶼山東涌逸東邨,21090328,lbcps@hkt.salvationarmy.org,http://www.salbcms.edu.hk,勞耀基先生
+救世軍田家炳學校,The Salvation Army Tin Ka Ping School,新界沙田博康邨,26489283,tkpps@esd.salvation.org.hk,http://www.satkp.edu.hk,朱少貞小姐
+救世軍韋理夫人紀念學校,The Salvation Army Ann Wyllie Memorial School,香港柴灣盛泰道100號杏花邨平台,25582111,info@annwyllie.edu.hk,http://www.annwyllie.edu.hk,蔡婉玲女士
+救恩學校,Kau Yan School,香港西營盤高街97B,21166198,kys-mail@kauyan.edu.hk,http://www.kauyan.edu.hk,林克忠先生
+新會商會學校,San Wui Commercial Society School,香港上環居賢坊1號,25465712,swcss@yahoo.com.hk,http://www.swcss.edu.hk,呂錦強先生
+新會商會港青基信學校,San Wui Commercial Society YMCA of Hong Kong Christian School,深水埗廣利道5號,23613383,admission@cs.edu.hk,http://www.cs.edu.hk,999
+新界婦孺福利會基督教銘恩小學,NTWJWA Christian Remembrance of Grace Primary School,新界大埔大元邨,26641223,ntwjwacrgps@gmail.com,,何彥輝先生
+新界婦孺福利會梁省德學校,NTWJWAL Leung Sing Tak Primary School,新界大埔大元邨,26641223,taipolst@gmail.com,http://www.taipolst.edu.hk,韋伊凌女士
+方樹福堂基金方樹泉小學,FSFTF Fong Shu Chuen Primary School,新界粉嶺華明邨第二期,27082211,fsc@fsc.edu.hk,http://www.fsc.edu.hk,戴順有先生
+旅港開平商會學校,Hoi Ping Chamber Of Commerce Primary School,九龍荔枝角道700號,23875605,hoiping@hpccps.edu.hk,http://www.hpccps.edu.hk,詹漢明先生
+晉德學校,Chinese Academy,香港銅鑼灣加路連山道77號,24998000,enquiry@caps.org.hk,http://www.caps.org.hk,999
+景林天主教小學,King Lam Catholic Primary School,新界將軍澳景林邨,27030499,klcps@klcps.edu.hk,http://www.klcps.edu.hk,何詠懿女士
+智新書院,Discovery College,大嶼山愉景灣澄湖畔路38號,39691000,office@discovery.edu.hk,http://www.discovery.edu.hk,Mr Beach Mark William
+曾梅千禧學校,Tsang Mui Millennium School,新界上水清城路1號,26703111,office@tmms.edu.hk,http://www.tmms.edu.hk,鄧善珍女士
+李志達紀念學校,Lee Chi Tat Memorial School,新界上水天平路30號,26738581,lctms@ymail.com,http://www.lctms.edu.hk,陳建順先生
+李鄭屋官立小學,Li Cheng Uk Government Primary School,九龍深水埗東京街43號,23868049,lcugps@edb.gov.hk,http://www.lcu.edu.hk,何美蓮女士
+李陞大坑學校,Li Sing Tai Hang School,香港大坑浣紗街73號,25775188,lising@lsths.edu.hk,http://www.lsths.edu.hk,葉小麗女士
+李陞小學,Li Sing Primary School,香港西營盤高街119號,25408966,lsps@edb.gov.hk,http://www.lsps.edu.hk,關玉芬女士
+杯澳公立學校,Bui O Public School,大嶼山貝澳羅屋村2號,29841189,buioschool@hotmail.com,http://www.buiosch.edu.hk,余美鳳女士
+東涌天主教學校,Tung Chung Catholic School,新界東涌逸東邨,21094962,tccs_pri@tccs.edu.hk,http://www.tccs.edu.hk,盧淑儀女士
+東莞同鄉會方樹泉學校,Tung Koon District Society Fong Shu Chuen School,東莞街43號,27802296,tkfsc@eservices.hkedcity.net,http://www.tkfsc-school.edu.hk,黃麗娥女士
+東莞學校,Tung Koon School (Sheung Shui),新界上水馬會道,26700334,sstks@ymail.com,http://www.tks.edu.hk,勞子奔先生
+東莞工商總會張煌偉小學,GCCITKD Cheong Wong Wai Primary School,新界沙田新翠邨第三期,26992566,cwwps@cwwps.edu.hk,http://www.cwwps.edu.hk,梁偉基校長
+東華三院冼次雲小學,TWGHs Sin Chu Wan Primary School,新界沙田大圍積福街38號,26949272,scwps@tungwah.org.hk,https://www.scwps.edu.hk,鄭偉鳳女士
+東華三院周演森小學,TWGHs Chow Yin Sum Primary School,新界青衣青芊街8號,24331081,cysps@tungwah.org.hk,http://twghscysps.edu.hk,黃偉興先生
+東華三院姚達之紀念小學(元朗),TWGHs Yiu Dak Chi Memorial Primary School,新界天水圍天瑞邨第一期,24451168,ydcps@tungwah.org.hk,http://www.ydc.edu.hk,羅倩兒女士
+東華三院李東海小學,TWGHs Leo Tung-hai LEE Primary School,新界天水圍天壇街19號,24461188,lthps@tungwah.org.hk,http://www.twghlthlp.edu.hk,羅婉儀女士
+東華三院李賜豪小學,TWGHs Li Chi Ho Primary School,香港灣仔皇后大道東280號,25750470,lwc-mail@hkedcity.net,http://www.twghlchps.edu.hk,黃偉興先生
+東華三院水泉澳小學,TWGHs Shui Chuen O Primary School,沙田美林邨屋邨小學第一校舍,29593606,scops@tungwah.org.hk,http://www.twghscops.com,梁敦瑜女士
+東華三院港九電器商聯會小學,TWGHs Hong Kong and Kowloon Electrical Appliances Merchants Association Limited School,新界上水石湖墟智昌路,26723285,emaps@tungwah.org.hk,http://www.eama.edu.hk,吳羨君女士
+東華三院王余家潔紀念小學,TWGHs Wong Yee Jar Jat Memorial Primary School,新界將軍澳學林里8號,27061336,mail@wyjjmps.edu.hk,http://www.wyjjmps.edu.hk,劉秀萍女士
+東華三院羅裕積小學,TWGHs Lo Yu Chik Primary School,九龍油麻地碧街51號,27800039,lycps@tungwah.org.hk,http://www.twghlycp.edu.hk,王潔明校長
+東華三院鄧肇堅小學,TWGHs Tang Shiu Kin Primary School,新界屯門安定邨,24030311,dsk-mail@hkedcity.net,http://www.twghtskp.edu.hk,余錦泉先生
+東華三院馬錦燦紀念小學,TWGHs Ma Kam Chan Memorial Primary School,新界上水彩園邨,26711071,mkcmps@tungwah.org.hk,http://www.twghmkc.edu.hk,馮育意女士
+東華三院高可寧紀念小學,TWGHs Ko Ho Ning Memorial Primary School,新界葵涌麗瑤邨,27450511,mail@twghkhnmp.edu.hk,http://www.twghkhnmp.edu.hk,林惠敏女士
+東華三院鶴山學校,TWGHs Hok Shan School,香港華富邨華林徑5號,25511142,hokshan@hokshan.edu.hk,http://www.hokshan.edu.hk,簡俊達先生
+東華三院黃士心小學,TWGHs Wong See Sum Primary School,新界青衣長安邨,24978784,wssps@eservices.hkedcity.net,http://www.twghwssp.edu.hk,鍾家明先生
+林村公立黃福鑾紀念學校,Lam Tsuen Public Wong Fook Luen Memorial School,新界大埔太和邨,26503355,ltwfl@yahoo.com.hk,http://www.wfl.edu.hk,陳喜泉先生
+柏立基教育學院校友會何壽基學校,SRBCEPSA Ho Sau Ki School,新界屯門田景邨第1號校舍,24556111,info@hosauki.edu.hk,http://www.hosauki.edu.hk,鍾艷紅女士
+柏立基教育學院校友會李一諤紀念學校,SRBCEPSA Lee Yat Ngok Memorial School,新界葵涌葵盛圍221號,24290452,info@lynms.edu.hk,http://www.lynms.edu.hk,詹潤屏女士
+柴灣角天主教小學,Chai Wan Kok Catholic Primary School,新界荃灣安賢街2-10號,24903463,cwk@cwk.edu.hk,http://www.cwk.edu.hk,周凱恩女士
+梅窩學校,Mui Wo School,新界大嶼山梅窩大地塘村,29848461,mws@mws.edu.hk,http://www.mws.edu.hk,阮慧筠女士
+梨木樹天主教小學,Lei Muk Shue Catholic Primary School,新界荃灣梨木樹邨第二號校舍,24263333,lmscps@lmscps.edu.hk,http://www.lmscps.edu.hk,侯麗珊女士
+樂善堂劉德學校,Lok Sin Tong Lau Tak Primary School,新界將軍澳寶林邨,27013072,mail@lautak.edu.hk,http://www.lautak.edu.hk,歐耀輝先生
+樂善堂小學,Lok Sin Tong Primary School,九龍城龍崗道63號,23823221,lok-mail@hkedcity.net,http://www.lstps.edu.hk,林漢玉女士
+樂善堂梁銶琚學校,Lok Sin Tong Leung Kau Kui Primary School,新界元朗天水圍天瑞邨,24486022,lkkpsam@hotmail.com,http://www.lst-lkkps.edu.hk,陳婉婷女士
+樂善堂梁銶琚學校(分校),Lok Sin Tong Leung Kau Kui Primary School (Branch),新界元朗天水圍天恩邨,24456880,lkkpsb@gmail.com,http://lst-lkkb.edu.hk,劉鐵梅女士
+樂善堂梁黃蕙芳紀念學校,Lok Sin Tong Leung Wong Wai Fong Memorial School,新界屯門山景邨,24666712,lstlwwfms@yahoo.com.hk,http://www.lstlwwf.edu.hk,伍家珍女士
+樂善堂楊仲明學校,Lok Sin Tong Yeung Chung Ming Primary School,九龍牛頭角樂華南邨,27559195,info@ycmps.edu.hk,http://www.ycmps.edu.hk,蕭子亮先生
+樂華天主教小學,Lok Wah Catholic Primary School,九龍觀塘振華道81號,27585767,lwcps@lwcps.edu.hk,http://www.lwcps.edu.hk,何潔珊校長
+樹宏學校,Forest House Waldorf School,西貢早禾路18號,27926055,info@foresthouse.edu.hk,http://www.waldorf.edu.hk,999
+民生書院小學,Munsang College Primary School,九龍九龍城東寶庭道8號,36553400,pms-mail@hkedcity.net,http://munsang.edu.hk/primary,梁桂英校長
+沙田圍胡素貞博士紀念學校,Sha Tin Wai Dr. Catherine F. Woo Memorial School,新界沙田乙明邨街2號,26468926,info@stwdcfwms.edu.hk,http://www.stwdcfwms.edu.hk,余忠權先生
+沙田官立小學,Shatin Government Primary School,新界沙田新田圍邨,26053304,stgps@edb.gov.hk,http://www.stgps.edu.hk,曾錫文先生
+沙田崇真學校,Shatin Tsung Tsin School,新界沙田瀝源邨,26918194,info@stts.edu.hk,http://www.stts.edu.hk,洪細君女士
+沙田循道衛理小學,Shatin Methodist Primary School,新界沙田廣源邨第三期,26366533,smps@smps.edu.hk,http://www.smps.edu.hk,簡佩芬女士
+沙頭角中心小學,Sha Tau Kok Central Primary School,新界沙頭角沙頭角墟第四區,26749080,office@stkcps.edu.hk,http://www.stkcps.edu.hk,馮瑞蘭女士
+油蔴地天主教小學,Yaumati Catholic Primary School,九龍油蔴地東莞街41號,27807311,ycps@ymtcps.edu.hk,http://www.ymtcps.edu.hk,余佩琴女士
+油蔴地天主教小學(海泓道),Yaumati Catholic Primary School (Hoi Wang Road),九龍油蔴地海泓道10號,26250766,info@ycps.edu.hk,http://www.ycps.edu.hk,陳淑儀女士
+油蔴地街坊會學校,Yaumati Kaifong Association School,九龍油蔴地眾坊街80號,23888327,ymtkfas@eservices.hkedcity.net,http://www.ymtkfas.edu.hk,張漪薇女士
+海壩街官立小學,Hoi Pa Street Government Primary School,新界荃灣啟志街1號,24902828,hoipa@hpsgps.edu.hk,http://www.hpsgps.edu.hk,陳慧嫻女士
+海怡寶血小學,Precious Blood Primary School (South Horizons),香港鴨脷洲橋道355號,25511378,info@pbpssh.edu.hk,http://www.pbpssh.edu.hk,黃德才校長
+浸信宣道會呂明才小學,Conservative Baptist Lui Ming Choi Primary School,九龍九龍灣彩霞道78號,27547024,mail@lmc.edu.hk,http://www.lmc.edu.hk,楊健德先生
+浸信會呂明才小學,Baptist Lui Ming Choi Primary School,新界沙田第一城得榮街2號,26483132,info@baptist-lmc-primary.edu.hk,http://www.baptist-lmc-primary.edu.hk,黃潔蓮女士
+浸信會天虹小學,Baptist Rainbow Primary School,九龍竹園南邨,23287971,info@rainbow.edu.hk,http://www.rainbow.edu.hk,馮耀章先生
+浸信會沙田圍呂明才小學,Baptist (STW) Lui Ming Choi Primary School,新界沙田圓洲角路八號,26476242,info@bstwlmc.edu.hk,http://www.bstwlmc.edu.hk,薛鳳鳴女士
+深井天主教小學,Sham Tseng Catholic Primary School,新界荃灣青山公路深井段37號,24903912,stcps2009@yahoo.com.hk,http://www.stcpri.edu.hk,周偉強先生
+深水埔街坊福利會小學,Shamshuipo Kaifong Welfare Association Primary School,九龍深水埗汝州街88號,23819504,admin@sspkw.edu.hk,http://sspkw.edu.hk,嚴佩琼女士
+深水埗官立小學,Sham Shui Po Government Primary School,九龍深水埗深旺道101號,29590555,email@sspgps.edu.hk,http://www.sspgps.edu.hk,黃鳳霞女士
+港九街坊婦女會孫方中小學,Hong Kong and Kowloon Kaifong Women's Association Sun Fong Chung Primary School,新界大埔富善邨第三期,26618896,info@sfc.edu.hk,http://www.sfc.edu.hk,盧秀枝女士
+港大同學會小學,HKUGA Primary School,香港柴灣怡盛街九號,22023922,info@hkugaps.edu.hk,http://www.hkugaps.edu.hk,黃桂玲女士
+港澳信義會小學,Hong Kong and Macau Lutheran Church Primary School,新界將軍澳集福路4號,27019803,hkmlcps@netvigator.com,http://www.hkmlcps.edu.hk,陳文燕女士
+港澳信義會明道小學,Hong Kong And Macau Lutheran Church Ming Tao Primary School,新界將軍澳彩明苑彩明街七號,31294294,mtps@hkmlc-mtps.edu.hk,http://www.hkmlc-mtps.edu.hk,陳群好女士
+港澳信義會黃陳淑英紀念學校,HKMLC Wong Chan Sook Ying Memorial School,新界元朗錦繡花園,24718502,wcsy.office@gmail.com,http://www.wcsy.edu.hk,梁玉華女士
+滬江小學,Shanghai Alumni Primary School,香港鰂魚涌康怡花園康盛街14號,28844775,sap-mail@sap.edu.hk,http://www.sap.edu.hk,鍾振文先生
+滬江維多利亞學校,Victoria Shanghai Academy,香港仔深灣道19號,34021100,vpadmin@vsa.edu.hk,http://www.vsa.edu.hk,Dr Guy Judith Helen
+漢師德萃學校,VNSAA St. Hilary's Primary School,九龍旺角洗衣街22號,23840592,info@sthilarys.edu.hk,https://www.sthilarys.edu.hk,朱子穎先生
+漢華中學(小學部),Hon Wah College (Primary Section),香港小西灣富欣道3號,28171746,info@honwah.edu.hk,http://www.honwah.edu.hk,關穎斌先生
+漢鼎書院,Han Academy,香港仔黃竹坑道33-35號,39986300,admissions@hlef.org,http://www.hanacademy.edu.hk,999
+潮陽百欣小學,Chiu Yang Por Yen Primary School,新界元朗天水圍天華路55號,24451666,mail@cypy.edu.hk,http://www.cypy.edu.hk,羅宇彤先生
+激活英文小學,Gigamind English Primary School,元朗天水圍天龍路9號,24469883,info@gigamind.edu.hk,http://www.gigamind.edu.hk,羅煦鈞先生
+獅子會何德心小學,Lions Clubs International Ho Tak Sum Primary School,新界天水圍天盛苑,26179682,lcihotaksum@eservices.hkedcity.net,http://www.htsps.edu.hk,陳慧萍女士
+獻主會小學,Oblate Primary School,九龍土瓜灣順風街1號,23648375,info@ops.edu.hk,http://www.ops.edu.hk,黎潔儀女士
+獻主會溥仁小學,Po Yan Oblate Primary School,九龍樂善道15號,23823474,poyan@eservices.hkedcity.net,http://www.poyan.edu.hk,王志聰先生
+獻主會聖馬善樂小學,St. Eugene de Mazenod Oblate Primary School,九龍土瓜灣天光道24號,27151011,info@semops.edu.hk,http://www.semops.edu.hk,葉志成先生
+玫瑰崗學校(小學部),Rosaryhill School (Primary Section),香港灣仔司徒拔道41號B,28355121,primary@rosaryhill.org,http://www.rhs.edu.hk/Primary/,黃慧貞女士
+玫瑰蕾小學,Rosebud Primary School,荃灣永順街38號海灣花園地下,24067300,register@rosebud.edu.hk,http://www.rosebud.edu.hk,Mr Rustem Sultanov
+瑪利曼小學,Marymount Primary School,香港大坑道336號,25728728,mps@mps.edu.hk,http://www.mps.edu.hk,何建儀女士
+瑪利諾修院學校(小學部),Maryknoll Convent School (Primary Section),九龍窩打老道130號,23360611,mcsps@mcsps.edu.hk,http://www.mcsps.edu.hk,袁淑華校長
+瑪利諾神父教會學校(小學部),Maryknoll Fathers' School (Primary Section),九龍深水埗海麗街11號,27788235,mfshead@gmail.com,http://mfp.hkcampus.net,吳偉文博士
+番禺會所華仁小學,Pun U Association Wah Yan Primary School,香港灣仔司徒拔道肇輝台1F,25722140,puwyhk@netvigator.com,http://www.puawyps.edu.hk,陳岡博士
+白田天主教小學,Pak Tin Catholic Primary School,九龍深水埗白田邨,27761423,pt@paktin.edu.hk,http://www.paktin.edu.hk,謝至美女士
+真鐸學校,Chun Tok School,九龍鑽石山斧山道171號,23265111,info@cts.edu.hk,http://www.cts.edu.hk,黎美霞女士
+石湖墟公立學校,Shek Wu Hui Public School,新界上水天平邨,26721225,swhps@swhps.edu.hk,http://www.swhps.edu.hk,沈美芬女士
+石籬天主教小學,Shek Lei Catholic Primary School,新界葵涌石梨街18號石籬二邨,24203186,sheklei@sheklei.edu.hk,http://www.sheklei.edu.hk,鄧烈文先生
+石籬聖若望天主教小學,Shek Lei St. John's Catholic Primary School,新界葵涌大白田街99號,35950036,slsj@slsj.edu.hk,http://www.slsj.edu.hk,蕭茵女士
+祖堯天主教小學,Cho Yiu Catholic Primary School,新界葵涌祖堯邨敬祖路10號,27423701,cyw-mail@choyiu.edu.hk,http://www.choyiu.edu.hk,何麗君女士
+神召第一小學,First Assembly of God Primary School,九龍亞皆老街123號,27688411,agp@faog.org.hk,http://pskg.faog.org.hk,何國萍先生
+福建中學附屬學校,Fukien Secondary School Affiliated School,九龍觀塘油塘村第二期,26060670,info@fssas.edu.hk,http://www.fssas.edu.hk,徐區懿華女士
+福德學校,Bishop Ford Memorial School,九龍東頭村培民街,23360206,info@bfordms.edu.hk,http://www.bfordms.edu.hk,許加路先生
+福德學社小學,Fuk Tak Education Society Primary School,新界沙頭角山咀村,26742120,school@ftesps.edu.hk,http://www.ftesps.edu.hk,梁志文先生
+福榮街官立小學,Fuk Wing Street Government Primary School,九龍深水埗福榮街231號,23869426,fwsgps@edb.gov.hk,http://www.fwsgps.edu.hk,何惠珍女士
+秀明小學,Sau Ming Primary School,九龍觀塘秀茂坪秀豐街5號,23493478,smpsmail@gmail.com,http://www.saumingps.edu.hk,陳俊敏女士
+秀茂坪天主教小學,Sau Mau Ping Catholic Primary School,九龍觀塘寶達邨,23484218,sams@smpcps.edu.hk,http://www.smpcps.edu.hk,葉春燕女士
+筲箕灣官立小學,Shau Kei Wan Government Primary School,香港筲箕灣東大街19號,25692532,skwgps@edb.gov.hk,http://www.skwgps.edu.hk,梁靜宜女士
+筲箕灣崇真學校,Shaukiwan Tsung Tsin School,香港筲箕灣巴色道3號,25606272,info@skwtts.edu.hk,http://www.skwtts.edu.hk,關唐裕先生
+粉嶺公立學校,Fanling Public School,新界粉嶺粉嶺村651號,26702297,office@flp.edu.hk,http://www.flp.edu.hk,余美賢女士
+粉嶺官立小學,Fanling Government Primary School,新界粉嶺祥華村,26692024,fgpsa@edb.gov.hk,http://www.fgps.edu.hk,陳張燕媚女士
+耀山學校,Iu Shan School,九龍嘉林邊道24號,23362115,iushan@iushan.edu.hk,http://www.iushan.edu.hk,蘇麗霞女士
+聖三一堂小學,Holy Trinity Primary School,九龍城富寧街57號,27110928,htps@htps.edu.hk,http://www.htps.edu.hk,阮素雲女士
+聖伯多祿天主教小學,St. Peter's Catholic Primary School,香港鴨脷洲利東邨第二期,28748311,spcps@netvigator.com,http://www.spcps.edu.hk,周詠詩女士
+聖保祿天主教小學,St. Paul's Primary Catholic School,香港跑馬地黃泥涌道81A號,25763181,sppcs@yahoo.com.hk,http://www.sppcs.edu.hk,關佩玲女士
+聖保祿學校(小學部),St. Paul's Convent School (Primary Section),香港銅鑼灣禮頓道140號,25760601,corr@spcspr.edu.hk,http://www.spcspr.edu.hk,高淑佩女士
+聖保羅書院小學,St. Paul's College Primary School,香港域多利道777號,37101777,office@spc-ps.edu.hk,http://www.spc-ps.edu.hk,麥志豪先生
+聖保羅男女中學附屬小學,St. Paul's Co-educational College Primary School,香港黃竹坑南風徑11號,25261882,spccps@ps.spcc.edu.hk,http://www.spccps.edu.hk,梁麗美女士
+聖公會主恩小學,SKH Chu Yan Primary School,新界葵涌葵盛邨第二號校舍,24201915,info@chuyan.edu.hk,http://www.chuyan.edu.hk,李明珠女士
+聖公會主愛小學,SKH Chu Oi Primary School,葵涌石蔭童子街45號,24267424,email@chuoi.edu.hk,http://www.chuoi.edu.hk,雷穎儀女士
+聖公會主愛小學(梨木樹),SKH Chu Oi Primary School (Lei Muk Shue),新界荃灣梨木樹邨,24011985,chuoi@chuoi-lms.edu.hk,http://www.chuoi-lms.edu.hk,翟智康先生
+聖公會主風小學,SKH Holy Spirit Primary School,新界沙田瀝源邨,26049051,inbox@skhhsst.net,http://www.skhhsst.edu.hk,鄭思思女士
+聖公會九龍灣基樂小學,SKH Kowloon Bay Kei Lok Primary School,九龍九龍灣啟仁街六號,27969393,kbkeilok@kbkeilok.edu.hk,http://www.kbkeilok.edu.hk,林鳳儀校長
+聖公會仁立小學,SKH Yan Laap Primary School,新界葵涌葵盛圍399號,24207986,ylp-mail@yanlaap.edu.hk,http://www.yanlaap.edu.hk,呂秀鳳女士
+聖公會仁立紀念小學,SKH Yan Laap Memorial Primary School,新界葵涌上角街13號,24286600,yanlaap@hotmail.com,http://www.ylm.edu.hk,余茵茵女士
+聖公會何澤芸小學,SKH Ho Chak Wan Primary School,新界青衣長亨邨,24327311,mail@skhhcw.edu.hk,http://www.skhhcw.edu.hk,張昌明先生
+聖公會偉倫小學,SKH Wei Lun Primary School,大嶼山愉景灣第13區,29878608,skhweilun@skhweilun.edu.hk,http://www.skhweilun.edu.hk,鍾淑玲女士
+聖公會呂明才紀念小學,SKH Lui Ming Choi Memorial Primary School,香港西環加惠民道31號,28172305,skhlmcmps1960@yahoo.com.hk,http://www.skhlmcmps.edu.hk,黃秀雯女士
+聖公會嘉福榮真小學,SKH Ka Fuk Wing Chun Primary School,新界粉嶺嘉福邨,29476888,kfwc@eservices.hkedcity.net,http://www.skhkfwc.edu.hk,盧美欣女士
+聖公會基德小學,SKH Kei Tak Primary School,九龍黃大仙大成街,23203077,skhkt@skhkt.edu.hk,http://www.skhkt.edu.hk,林結儀女士
+聖公會基恩小學,SKH Kei Yan Primary School,香港中環荷李活道109號,25240896,skyps100@yahoo.com.hk,http://www.skhkyps.edu.hk,李文傑先生
+聖公會基愛小學,SKH Kei Oi Primary School,九龍深水埗廣利道15號,23862463,skh.keioi@yahoo.com.hk,http://www.keioi.edu.hk,陳嘉文先生
+聖公會基榮小學,SKH Kei Wing Primary School,九龍大角咀荔枝角道23號,23800349,info@skhkwps.edu.hk,http://www.skhkwps.edu.hk,許穎芬女士
+聖公會基樂小學,SKH Kei Lok Primary School,九龍牛頭角樂華邨,27555611,keilok@keilok.edu.hk,http://web.keilok.edu.hk,温志揚先生
+聖公會基福小學,SKH Kei Fook Primary School,九龍長沙灣道555號,23871121,info@keifook.edu.hk,http://www.keifook.edu.hk,李穗芳女士
+聖公會基顯小學,SKH Kei Hin Primary School,九龍牛頭角上邨,27507771,keihin@skhkeihin.edu.hk,http://www.skhkeihin.edu.hk,駱瑞萍女士
+聖公會天水圍靈愛小學,SKH Tin Shui Wai Ling Oi Primary School,新界元朗天水圍天瑞路82號,24461633,info@skhtswlo.edu.hk,http://www.skhtswlo.edu.hk,孔偉成先生
+聖公會奉基千禧小學,SKH Fung Kei Millennium Primary School,紅磡黃埔花園德定街2號,23627123,fkmps@fkmps.edu.hk,http://www.fkmps.edu.hk,陳小燕女士
+聖公會奉基小學,SKH Fung Kei Primary School,九龍紅磡黃埔花園德定街4號,27648909,fungkei@fungkei.edu.hk,http://www.fungkei.edu.hk,翁少珊女士
+聖公會將軍澳基德小學,SKH Tseung Kwan O Kei Tak Primary School,將軍澳寶康路82號,23206066,tkokt@tkokt.edu.hk,http://www.tkokt.edu.hk,梅潔玲女士
+聖公會德田李兆強小學,SKH Tak Tin Lee Shiu Keung Primary School,九龍觀塘藍田慶田街3號,27759338,info@skhttlsk.edu.hk,http://www.skhttlsk.edu.hk,李偉栢先生
+聖公會日修小學,SKH Yat Sau Primary School,九龍黃大仙彩虹邨綠柳路,23204932,999,999,999
+聖公會李兆強小學,SKH Lee Shiu Keung Primary School,九龍藍田平田邨安田街第一校舍,23465430,info@skhlsk.edu.hk,http://www.skhlsk.edu.hk,何啟安先生
+聖公會柴灣聖米迦勒小學,SKH Chai Wan St. Michael's Primary School,香港柴灣柴灣道380號,31028101,info@skhcwsms.edu.hk,http://www.skhcwsms.edu.hk,梁國強先生
+聖公會榮真小學,SKH Wing Chun Primary School,新界粉嶺吉祥街3號,26703338,skhwc@eservices.hkedcity.net,http://www.skhwc.edu.hk,羅春鳳女士
+聖公會油塘基顯小學,SKH Yautong Kei Hin Primary School,九龍油塘油塘道23號,27570322,ykh@skhykh.edu.hk,http://www.skhykh.edu.hk,王彩娣女士
+聖公會牧愛小學,SKH Good Shepherd Primary School,九龍土瓜灣馬頭圍道171號,27123094,info@gsps.edu.hk,http://www.gsps.edu.hk,陳裕均先生
+聖公會田灣始南小學,SKH Tin Wan Chi Nam Primary School,香港香港仔田灣始南徑1號,25508326,tcn-mail@hkedcity.net,http://www.tcn.edu.hk/tcn/,郭妙嫻女士
+聖公會置富始南小學,SKH Chi Fu Chi Nam Primary School,香港薄扶林置富花園置富徑3號,25504004,skhcfcnps@eservices.hkedcity.net,http://www.skhcfcn.edu.hk,曾玉珍女士
+聖公會聖匠小學,SKH Holy Carpenter Primary School,九龍土瓜灣貴州街14號,23332313,office@hcps.edu.hk,http://www.hcps.edu.hk,伍美英女士
+聖公會聖十架小學,SKH Holy Cross Primary School,九龍九龍城沐虹街9號,23204931,skhhcinfo@gmail.com,http://www.skhhcps.edu.hk,陳頌康先生
+聖公會聖多馬小學,SKH St. Thomas' Primary School,九龍深水埗東沙島街145號,27793076,skhstthomasps@yahoo.com.hk,http://www.skhstthomas.edu.hk,鄧依萍女士
+聖公會聖安德烈小學,SKH St. Andrew's Primary School,九龍深水埗海麗街3號,29591551,andrew@skhstandrews.edu.hk,http://www.skhstandrews.edu.hk,周瑞忠先生
+聖公會聖彼得小學,SKH St. Peter's Primary School,香港西營盤山道88號,25462624,info@spps.edu.hk,http://www.spps.edu.hk,黎可欣女士
+聖公會聖提摩太小學,SKH St. Timothy's Primary School,九龍紅磡鶴園街14及19號,23625953,mail@stps.edu.hk,http://www.stps.edu.hk,林斯初先生
+聖公會聖米迦勒小學,SKH St. Michael's Primary School,香港北角炮台山道23號,25709473,info@skhsms.edu.hk,http://www.skhsms.edu.hk,何亦儀女士
+聖公會聖紀文小學,SKH St. Clement's Primary School,九龍長沙灣幸福街5號,23615663,info@skhscps.edu.hk,http://www.skhscps.edu.hk,鄺潤歡女士
+聖公會聖約瑟小學,SKH St. Joseph's Primary School,新界元朗錦田波地路12號,24764962,welcome@skhsjs.edu.hk,http://www.skhsjs.edu.hk,何盈蔚女士
+聖公會聖約翰小學,SKH St. John's Primary School,九龍清水灣道16號,23226125,sjpschool@yahoo.com.hk,http://www.skhjos.edu.hk,金永添先生
+聖公會聖雅各小學,SKH St. James' Primary School,香港灣仔堅尼地道110號,25749369,skhsjps@yahoo.com.hk,http://www.skhsjps.edu.hk,張勇邦先生
+聖公會聖馬太小學,SKH St. Matthew's Primary School,香港上環新街12-20號,25483368,mat-mail@hkedcity.net,http://www.stmatthew.edu.hk,莫培超先生
+聖公會蒙恩小學,SKH Mung Yan Primary School,新界屯門景峰徑1號,24598909,skhmungyan@gmail.com,http://www.skhmungyanps.edu.hk,陸國森校長
+聖公會阮鄭夢芹小學,SKH Yuen Chen Maun Chen Primary School,新界大埔廣福村,26589183,info@skhycmcps.edu.hk,http://www.skhycmcps.edu.hk,楊楚傑先生
+聖公會阮鄭夢芹銀禧小學,SKH Yuen Chen Maun Chen Jubilee Primary School,新界大埔富亨邨,26660606,info@skhycmcj.edu.hk,http://www.skhycmcj.edu.hk,朱偉基先生
+聖公會靈愛小學,SKH Ling Oi Primary School,新界元朗媽廟路15號,24774109,info@lingoi.edu.hk,http://www.lingoi.edu.hk,謝仕泉先生
+聖公會青衣主恩小學,SKH Tsing Yi Chu Yan Primary School,青衣長宏邨,24332225,info@tycy.edu.hk,http://www.tycy.edu.hk,鄧志鵬先生
+聖公會青衣邨何澤芸小學,SKH Tsing Yi Estate Ho Chak Wan Primary School,新界青衣第一區小學校舍,24327331,info@tyehcw.edu.hk,http://www.tyehcw.edu.hk,李佩雯女士
+聖公會靜山小學,SKH Ching Shan Primary School,九龍黃大仙彩虹邨綠柳路,23204931,999,999,999
+聖公會馬鞍山主風小學,SKH Ma On Shan Holy Spirit Primary School,新界沙田馬鞍山寧泰路35號,26048487,info@skhmoshs.edu.hk,http://www.skhmoshs.edu.hk,劉凱芝女士
+聖博德天主教小學(蒲崗村道),St. Patrick's Catholic Primary School (Po Kong Village Road),九龍黃大仙蒲崗村道學校村178號,22460783,spcps001@spcpspkv.edu.hk,http://www.spcpspkv.edu.hk,陳麗珠博士
+聖博德學校,St. Patrick's School,九龍橫頭磡富美東街12號,23370133,email@sps.edu.hk,http://www.sps.edu.hk,張作芳女士
+聖嘉勒小學,St. Clare's Primary School,香港般咸道光景台3-6號,25472751,stclare@scps.school.hk,http://scps.edu.hk,李敏茵女士
+聖嘉祿學校,St. Charles School,香港堅尼地城蒲飛路25號,28173325,stcharles@mail.stcharles.edu.hk,http://www.stcharles.edu.hk,黎秀芳女士
+聖士提反女子中學附屬小學,St. Stephen's Girls' Primary School,香港柏道33號,25405088,info@ssgps.edu.hk,http://www.ssgps.edu.hk,柯靜如女士
+聖士提反書院附屬小學,St. Stephen's College Preparatory School,香港赤柱黃麻角道30-32號,28130272,info@sscps.edu.hk,http://www.sscps.edu.hk,衛燕華博士
+聖安多尼學校,St. Anthony's School,香港薄扶林道69號A,25466263,stanthonys@stanthonys.edu.hk,http://www.stanthonys.edu.hk,馬嘉健先生
+聖安當小學,St. Antonius Primary School,九龍油塘道1號,23484283,saps01@eservices.hkedcity.net,http://www.saps.edu.hk,羅偉國先生
+聖家學校,Holy Family School,坪州南灣聖家路1號,29830359,fam-mail@hkedcity.net,http://www.holyfamily.edu.hk,伍麗英女士
+聖愛德華天主教小學,St. Edward's Catholic Primary School,九龍觀塘藍田慶田街8號,27179585,stedwardcps@stedward.edu.hk,http://www.stedward.edu.hk,馮立榮先生
+聖文德天主教小學,St. Bonaventure Catholic Primary School,九龍鑽石山鳳德邨鳳禮道四號,23202727,sch@sbcps.edu.hk,http://www.sbcps.edu.hk,張偉菁女士
+聖方濟各英文小學,St. Francis Of Assisi's English Primary School,九龍石硤尾街58號,27797654,enquiry@sfaeps.edu.hk,http://www.sfaeps.edu.hk,劉偉明先生
+聖方濟愛德小學,St. Francis Of Assisi's Caritas School,九龍石硤尾偉智街7號,27772752,sfacs@yahoo.com,http://www.sfacs.edu.hk,王澤純女士
+聖母小學,Our Lady's Primary School,九龍黃大仙沙田坳道116號,23201001,admin@olps.edu.hk,http://www.olps.edu.hk,吳文健修女
+聖母無玷聖心學校,Immaculate Heart Of Mary School,新界沙田大圍美田路1號,26912171,ihs-mail@hkedcity.net,http://www.ihms.edu.hk,林美雲女士
+聖瑪加利男女英文中小學,St. Margaret's Co-educational English Secondary and Primary School,九龍深水埗深旺道33號,23966675,enquiry@smcesps.edu.hk,http://www.smcesps.edu.hk,譚張潔凝女士
+聖羅撒學校,St. Rose of Lima's School,九龍基堤道4號,23382807,srolsp@srols.edu.hk,http://www.srols.edu.hk,鍾潔雲女士
+聖若望英文書院(小學部),St. Johannes College (Primary Section),九龍九龍塘窩打老道143號,23362933,pri@st-johannes.edu.hk,http://www.st-johannes.edu.hk,陸梁佳儀女士
+聖若瑟小學,St. Joseph's Primary School,香港灣仔活道48號,25742259,sjps1@sjps.edu.hk,http://www.sjps.edu.hk,陳玉娥女士
+聖若瑟英文小學,St. Joseph's Anglo-Chinese Primary School,九龍觀塘道57號,23255851,info@sjacps.edu.hk,http://www.sjacps.edu.hk,郭芸女士
+聖若翰天主教小學,St. John The Baptist Catholic Primary School,九龍觀塘宜安街29號,23890428,sj-mail@hkedcity.net,http://www.sjbcps.edu.hk,陳秀儀校長
+聖類斯中學(小學部),St. Louis School (Primary Section),香港西營盤第三街179號,25472306,info@stlouisps.edu.hk,http://stlouisps.edu.hk,吳錦聰先生
+聖馬可小學,St. Mark's Primary School,香港筲箕灣柴灣道71號,25605677,stmarksprisch@yahoo.com.hk,http://www.stmarksprischool.edu.hk,梁浩偉先生
+育賢學校,Yuk Yin School,新界上水馬會道,26729917,yyswd86@yahoo.com.hk,http://yukyin.icampus.hk,林向榮先生
